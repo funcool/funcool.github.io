@@ -6,8 +6,29 @@
  :social {}
  :languages #{"Clojure"}
  :included-projects #{"cats"
+                      "catacumba"
                       "cuerdas"
-                      "promesa"} ;; todo: moar repos
+                      "promesa"
+                      "bide"
+                      "buddy"
+                      "buddy-core"
+                      "buddy-hashers"
+                      "buddy-auth"
+                      "buddy-sign"
+                      "httpurr"
+                      "suricatta"
+                      "beicon"
+                      "lentes"
+                      "potok"
+                      "octet"
+                      "urania"
+                      "clojurescript-unraveled"
+                      "clojure.jdbc"
+                      "codeina"
+                      "boot-codeina"
+                      "decimal"
+                      "tubax"
+                      "hodgepodge"}
  :extra-repos []
  :project-logos {}
  :token "0ea220b5c8de1be060c132e24771ed74537821be"
