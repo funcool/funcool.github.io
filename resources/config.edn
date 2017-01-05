@@ -1,5 +1,5 @@
 {:organization "funcool"
- :organization-name "funcool"
+ :organization-name "Funcool"
  :logo {:href "http://github.com/funcool"
         :src "https://avatars3.githubusercontent.com/u/10117366"
         :style {:filter "invert(1)"}}
