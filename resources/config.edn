@@ -1,7 +1,8 @@
 {:organization "funcool"
  :organization-name "funcool"
  :logo {:href "http://github.com/funcool"
-        :src "img/nav-brand.png"}
+        :src "https://avatars3.githubusercontent.com/u/10117366"
+        :style {:filter "invert(1)"}}
  :links []
  :social {}
  :languages #{"Clojure"}
@@ -37,8 +38,7 @@
           [:a {:href "http://github.com/funcool"} "Funcool"]
           " - Crafted with love and parentheses"]
  :style {:primary-color "#F44336"
-         :header {:background "linear-gradient(0deg, rgba(30, 39, 53, 0.88), rgba(30, 39, 53, 0.88)), url(\"img/header-background.jpg\") no-repeat center center"
-                  :background-size "cover"}
+         :header {}
          :font {:url "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400"
                 :base "'Open sans', sans-serif"
                 :headings "'Poppins', sans-serif"
